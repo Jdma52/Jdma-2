@@ -1,20 +1,20 @@
-# José David Martínez Ardón
+# José David Martínez Ardón  
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  
 
-<h1 align="center"><b>¡Hola, soy José David Martínez Ardón! 👋</b></h1>
+<h1 align="center"><b>¡Hola, soy José David Martínez Ardón! 👋</b></h1>  
 
-<h4 align="center"><i>"Primero resuelve el problema. Después, escribe el código."</i></h4>
+<h4 align="center"><i>"Primero resuelve el problema. Después, escribe el código."</i></h4>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jdma-2&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil"/>
-</p>
+</p>  
 
 ---
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jdma-2/jdma-2/main/assets/coding.gif" />
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jdma-2/jdma-2/main/assets/coding.gif" />  
 
-### Sobre mí:
+### 👨‍💻 Sobre mí:
 - 💻 Desarrollador Full Stack en formación  
 - 🔭 Actualmente trabajando en proyectos con **React, Node.js y MongoDB**  
 - 🌱 Aprendiendo más sobre **autenticación y seguridad en aplicaciones web**  
@@ -24,40 +24,48 @@
 
 ---
 
-### Conéctate conmigo:
+### 🌐 Conéctate conmigo:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jose-david-martinez-ardon-3167a9224/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:jdma_cachito52@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 <a href="mailto:jdma.cachicacho53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+</p>  
 
 ---
 
-### Lenguajes y Herramientas:  
+### ⚙️ Lenguajes y Herramientas  
 
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+</p>  
+
+<p align="center">
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</p>  
 
 ---
 
 ### 📊 Estadísticas de GitHub  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jdma-2&show_icons=true&include_all_commits=true&theme=dark" alt="Stats de José David" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdma-2&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jdma-2&show_icons=true&include_all_commits=true&theme=dark" alt="Stats de José David" width="60%">  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdma-2&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados">  
 
 <p align="center">
     📌 Nota: Los lenguajes más usados no representan mi nivel de experiencia, solo son métricas de GitHub.
-</p>
+</p>  
 
 ---
-✍️ Inspirado en: [sameer1604](https://github.com/sameer1604)
+
+✍️ Inspirado en: [sameer1604](https://github.com/sameer1604)  
