@@ -2,16 +2,12 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<p>
-  <h1 align="center"><b>¡Hola, soy José David Martínez Ardón! 👋</b></h1>
-</p>
+<h1 align="center"><b>¡Hola, soy José David Martínez Ardón! 👋</b></h1>
 
-<p>
-  <h4 align="center"><b><i>"Primero resuelve el problema. Después, escribe el código."</i></b></h4>
-</p>
+<h4 align="center"><i>"Primero resuelve el problema. Después, escribe el código."</i></h4>
 
 <p align="center">
-    <img align="center" alt="visitas" src="https://gpvc.arturio.dev/jdma-2" />
+  <img src="https://komarev.com/ghpvc/?username=Jdma-2&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil"/>
 </p>
 
 ---
@@ -38,29 +34,27 @@
 
 ---
 
-### Lenguajes y Herramientas: 
+### Lenguajes y Herramientas:  
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<br>
-<br>
-<br>
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
-### Estadísticas de GitHub
+### 📊 Estadísticas de GitHub  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jdma-2&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Stats de José David" width="60%">
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jdma-2&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Stats de José David" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdma-2&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jdma-2&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados">
+
 
 <p align="center">
     📌 Nota: Los lenguajes más usados no representan mi nivel de experiencia, solo son métricas de GitHub.
