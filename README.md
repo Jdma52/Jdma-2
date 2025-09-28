@@ -7,12 +7,12 @@
 <h4 align="center"><i>"Primero resuelve el problema. Después, escribe el código."</i></h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jdma-2&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=jdma-2&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil"/>
 </p>
 
 ---
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jdma-2/jdma-2/main/assets/coding.gif" />
 
 ### Sobre mí:
 - 💻 Desarrollador Full Stack en formación  
@@ -51,10 +51,9 @@
 
 ### 📊 Estadísticas de GitHub  
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jdma-2&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Stats de José David" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jdma-2&show_icons=true&include_all_commits=true&theme=dark" alt="Stats de José David" width="60%">
   
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jdma-2&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdma-2&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados">
 
 <p align="center">
     📌 Nota: Los lenguajes más usados no representan mi nivel de experiencia, solo son métricas de GitHub.
